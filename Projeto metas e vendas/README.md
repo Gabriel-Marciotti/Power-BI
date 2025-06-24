@@ -1,9 +1,8 @@
 # Projeto metas e vendas
 
-✨ Primeiro projeto do curso. Foi construído do zero, partindo da limpeza dos dados com ferramentas ETL até construção de medidas com DAX, finalizando com a construção do Dashboard (fases principais).
+✨ Primeiro projeto do curso. Foi construído do zero, partindo da limpeza dos dados com ferramentas ETL até construção de medidas com DAX, finalizando com a construção do Dashboard (fases principais). O foco foi utilizar o software para fazer uma análise exploratória e desenvolver os diferentes tipos de visualização, fixando conteúdos e aprimorando a capacidade para uso de fórmulas e utilitários.
 
 ## Imagens
 
-![Imagem](https://media.licdn.com/dms/image/D4D22AQF2EP1P3M1kBA/feedshare-shrink_800/0/1704214106250?e=1707955200&v=beta&t=whN1z2sjOT4Jmq9FkqGAslav32r0HTpSuVmZPuU37Ig)
-![Imagem](https://media.licdn.com/dms/image/D4D22AQFxZxuJwL3fuw/feedshare-shrink_800/0/1704214106286?e=1707955200&v=beta&t=YD9UXvAD2lRUf5iHjHMAdp5Z6qL69QgkDThZoTsIKwE)
-![Imagem](https://media.licdn.com/dms/image/D4D22AQHwl-clpPVXcQ/feedshare-shrink_800/0/1704214106248?e=1707955200&v=beta&t=PD-yAD5YZMkIRUP4yBUh7v6WCPpLbzSBCdCjEd_WmSY)
+![Imagem](https://media.licdn.com/dms/image/v2/D4D22AQF2EP1P3M1kBA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1704214106252?e=1753920000&v=beta&t=YlmcujK3H4UnyeRyBAlpavjJs-WaLXSz0A-X3ldW2BA)
+![Imagem](https://media.licdn.com/dms/image/v2/D4D22AQHwl-clpPVXcQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1704214106250?e=1753920000&v=beta&t=vDIWOYQ2MveHsfKnBHV8k8saiTgGSXaX6KPSdwfpp3I)
