@@ -4,7 +4,7 @@
 
 - Caso necessite de acesso aos arquivos (transformação de arquivos) dentro do Power BI, deixei uma variável chamada local para armazenar o caminho da pasta onde constam os arquivos;
 
-- Consta na pasta um arquivo zipado com todos os arquivos do projeto, principalmente o dashboard e o descritivo (onde consta breve explicação da análise);
+- Consta na pasta um arquivo zipado com todos os arquivos do projeto, principalmente o "Dashboard", o "Descritivo" e o "Análise";
 
 - Para criação do dashboard e documentos, foi considerado que o nome da empresa é "Nexus".
 
